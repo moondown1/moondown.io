@@ -21,6 +21,7 @@
     "electron": "2.0.8"
   },
   "dependencies": {
+    "bulma": "^0.7.1",
     "vue": "^2.5.17"
   }
 }
