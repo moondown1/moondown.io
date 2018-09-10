@@ -19,5 +19,8 @@
   "homepage": "https://github.com/moondown1/moondown.io#readme",
   "devDependencies": {
     "electron": "2.0.8"
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
   }
 }
