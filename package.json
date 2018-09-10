@@ -1,0 +1,23 @@
+{
+  "name": "mondown.io",
+  "version": "1.0.0",
+  "description": "this is redeux for moondown.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moondown1/moondown.io.git"
+  },
+  "keywords": [],
+  "author": "moondown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moondown1/moondown.io/issues"
+  },
+  "homepage": "https://github.com/moondown1/moondown.io#readme",
+  "devDependencies": {
+    "electron": "2.0.8"
+  }
+}
