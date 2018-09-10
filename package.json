@@ -1,27 +1,10 @@
 {
-  "name": "mondown.io",
-  "version": "1.0.0",
-  "description": "this is redeux for moondown.io",
-  "main": "index.js",
+  // Other properties removed for brevity
+
+  "main": "main.js",            // Make sure that is main.js
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."       // Update this
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/moondown1/moondown.io.git"
-  },
-  "keywords": [],
-  "author": "moondown",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/moondown1/moondown.io/issues"
-  },
-  "homepage": "https://github.com/moondown1/moondown.io#readme",
-  "devDependencies": {
-    "electron": "2.0.8"
-  },
-  "dependencies": {
-    "bulma": "^0.7.1",
-    "vue": "^2.5.17"
-  }
+
+  // Other properties removed for brevity
 }
